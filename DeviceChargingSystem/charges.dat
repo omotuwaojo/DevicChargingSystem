@@ -1,0 +1,16 @@
+[
+          {
+                    "id": "09",
+                    "name": "ojo",
+                    "description": "android",
+                    "device_name": "infinix s5",
+                    "payment": false
+          },
+          {
+                    "id": "08",
+                    "name": "id",
+                    "description": "android battery",
+                    "device_name": "battery",
+                    "payment": true
+          }
+]
